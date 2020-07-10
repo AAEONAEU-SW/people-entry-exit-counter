@@ -17,7 +17,8 @@ This application is designed to detect the humans present at the entrance and ex
 
 ### Hardware
 
-* UP Core Plus with Intel® Atom™ Quad Core processor and Intel® HD Graphics
+* UP Core Plus with Intel® Atom™ Quad Core processor and Intel® HD Graphics: https://up-board.org/upcoreplus/specifications/
+* 2 USB HD Webcam
  
 ### Software
 
